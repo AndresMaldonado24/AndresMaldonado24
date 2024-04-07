@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Astro, GO & HTMX**
 
-- 📫 How to reach me **andresm806@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/andresmaldonadoespinosa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andresmaldonadoespinosa/" height="30" width="40" /></a>
